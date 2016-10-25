@@ -22,7 +22,7 @@
 // distributed under the License is distributed on an "AS IS" BASIS,
 // WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 // See the License for the specific language governing permissions and
-// limitations under the License.]]></parameter>
+// limitations under the License. ]]></parameter>
   </parameters>
  </check>
  <check level="warning" class="org.scalastyle.scalariform.SpacesAfterPlusChecker" enabled="true"></check>
@@ -116,4 +116,5 @@
  <check level="warning" class="org.scalastyle.file.NoNewLineAtEofChecker" enabled="false"></check>
   <check level="warning" class="org.scalastyle.scalariform.NullChecker" enabled="true"></check>
  <check level="warning" class="org.ext.NoFoobarChecker" enabled="true"></check>
-</scalastyle>
+</scalastyle
+<!-- added comments to check -->
